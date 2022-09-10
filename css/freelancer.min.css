@@ -175,7 +175,8 @@ hr.star-light-black {
 }
 hr.star-light-left {
     border: none;
-    width: 50%;
+    width: 40%;
+    margin-left: 10%;
     margin-right: 50%;
     border-top: solid 5px;
    
